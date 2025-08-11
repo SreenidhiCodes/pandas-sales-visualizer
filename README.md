@@ -64,6 +64,7 @@ Boxplot – Sales Distribution
 
 # Deliverables
 -task5_sales_analysis.ipynb – Google Colab containing the code.
+
 -sales_data_50.csv – Dataset 
 
 README.md – Project documentation (this file).
